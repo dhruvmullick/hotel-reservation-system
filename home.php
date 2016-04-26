@@ -16,7 +16,7 @@
 	</div>
 
 	<div class="container-fluid">
-		<div class = "row">
+		<div class =  "row">
 			<p>Hotel Four Seasons, among the premier business hotel in amreli the economic capital of saurashtra is characterised by the traditionally hospitality located in the heart of the city.The ideal choice amongs hotels in Amreli for businessman and tourist. </p>
 		</div>
 		<div class="row">
