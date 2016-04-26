@@ -8,7 +8,6 @@ Since we have used a MySQL database, the project doesn’t face concurrency prob
 
  
 
-
 Description of the Project 
 ---
 The MySQL database has been used for the following purposes
