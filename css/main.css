@@ -1,0 +1,88 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgb(0, 0, 0);
+  background-color: #fff;
+}
+
+
+#imgcover img{
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading h1{
+  margin-top: 20px;
+  margin-bottom: 60px;
+  font-size: 36px;
+  font-weight: 700;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
+}
+
+#heading h2{
+  margin-left: 60px;
+  margin-right: 60px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.container-fluid p{
+  font-size : 16px;
+  text-align: justify;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.container-fluid .row{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#imgleft{
+  float: left;
+  height: 300px;
+  width: 350px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+}
+
+#imgright{
+  float: right;
+  height: 300px;
+  width: 350px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+
+}
+
+.table{
+  width: 75%;
+}
+
+#contactP{
+  font-size: 18px;
+  font-weight: 600px;
+  margin-left: 60px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#loginpage{
+  margin-top: 60px;
+  /*font-weight: bold;*/
+}
+/*#contactPR{
+  font-size: 18px;
+  font-weight: 600px;
+  margin-left: 60px;
+  text-align: left;
+  margin-bottom: 20px;
+}*/
