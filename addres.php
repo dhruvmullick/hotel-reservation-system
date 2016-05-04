@@ -77,6 +77,8 @@
 		(`r_id`,`type`)VALUES
 		('$id1','$type');");
 
+		$_SESSION['rid']=$id1;
+
 		mysqli_query ($con,"INSERT INTO `mapur`
 		(`Userid`,`r_id`)VALUES
 		('$username','$id1');");
